@@ -108,35 +108,6 @@ value="Click here to toggle on/off the raw code."></form>''')
 
 
 
-<script>
-code_show=true; 
-function code_toggle() {
- if (code_show){
- $('div.input').hide();
- } else {
- $('div.input').show();
- }
- code_show = !code_show
-} 
-$( document ).ready(code_toggle);
-</script>
-<style>
-.output_png {
-    display: table-cell;
-    text-align: center;
-    horizontal-align: middle;
-    vertical-align: middle;
-    margin:auto;
-}
-
-tbody, thead {
-    margin-left:100px;
-}
-
-</style>
-<form action="javascript:code_toggle()"><input type="submit"
-value="Click here to toggle on/off the raw code."></form>
-
 
 
 
