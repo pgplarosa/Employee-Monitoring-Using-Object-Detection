@@ -1,6 +1,6 @@
 # Employee Monitoring Using Object Detection
 
-Deep Learning Individual Project - March 03, 2022. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/Employee-Monitoring-Using-Object-Detection/blob/main/md/Individual%20Project%20Report_La%20Rosa.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
+Deep Learning Individual Project by Patrick Guillano P. La Rosa - March 03, 2022. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/Employee-Monitoring-Using-Object-Detection/blob/main/md/Individual%20Project%20Report_La%20Rosa.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
 
 
 <img src="./outputs/header.png" width=100% />
@@ -18,7 +18,3 @@ The application of transfer learning on YOLO increased the average precision fro
 Recommendations for this project involve additional features outside of the current scope, like detection of the actual action of the employee if they are talking, or working, among others. Further recommendations involve alternative use cases for the system. With modifications to the implementation, this system may be redeployed for parking management, security systems, and traffic management.
 
 https://user-images.githubusercontent.com/67182415/177245750-7488612b-f820-4b33-95b0-74e9ad26776e.mov
-
-**Author**
-
-* La Rosa, Patrick Guillano, P.
